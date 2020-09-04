@@ -2,8 +2,6 @@
 
 ---
 
-### I'm a
-
 - 🔭 I’m currently working on a rc car and a secret project
 - 🌱 I’m currently learning ML, React, JS and more
 - 🥅 2020 Goals: Finnish that rc car
