@@ -27,6 +27,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+---
+https://img.shields.io/twitter/url?label=Tudor_Gadalean&url=https%3A%2F%2Ftwitter.com%2FTudor_Gadalean
+
 <br />
 
 ---
