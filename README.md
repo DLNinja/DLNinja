@@ -2,10 +2,17 @@
 
 ---
 
-- 🔭 I’m currently working on a rc car and a secret project
-- 🌱 I’m currently learning ML, React, JS and more
-- 🥅 2020 Goals: Finnish that rc car
-- ⚡ I love math and physics
+### Some things you might want to know:
+
+-  I’m currently trying to improve my rc car project
+-  I’m currently learning ML, React, JS, Dart and more
+-  2020 Goals: Add a special feature to the rc car
+-  I love math and physics
+
+### Some completed projects:
+
+- mini rc car with controller
+- crash detection sensor (prototype)
 
 ### Languages and Tools:
 
