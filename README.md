@@ -46,7 +46,7 @@
 ![Twitter](https://img.shields.io/twitter/url?label=Tudor_Gadalean&url=https%3A%2F%2Ftwitter.com%2FTudor_Gadalean)
 -->
 
-<!--
+
 <br />
 
 ---
@@ -57,4 +57,3 @@
   <img align="left" alt="DLNinja's Github Stats" src="https://github-readme-stats.dlninja.vercel.app/api?username=DLNinja&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
--->
