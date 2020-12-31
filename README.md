@@ -6,7 +6,7 @@
 
 -  I’m currently trying to improve my rc car project
 -  I’m currently learning ML and Web Development
--  2020 Goals: Add a special feature to the rc car
+-  2020 Goals: Get better with Arduino and ML stuff
 -  I love math, physics and robotics
 
 ### Some completed projects:
