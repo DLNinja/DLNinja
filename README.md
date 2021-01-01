@@ -1,4 +1,4 @@
-### Hi there, I'm Tudor - aka DLNinja
+### Hi there, I'm Tudor
 
 ---
 
