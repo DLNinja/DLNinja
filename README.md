@@ -2,17 +2,19 @@
 
 ---
 
-### Some things you might want to know:
 
--  I’m currently trying to improve my rc car project
--  I’m currently learning ML and Web Development
--  2020 Goals: Get better with Arduino and ML stuff
--  I love math, physics and robotics
+### 2021 Goals:
+-  Minimum 1 commit/day
+-  Build a mini self-driving car
+-  Buy a 3D Printer
+-  Learn CAD
+-  Build at least 1 project/month
+
 
 ### Some completed projects:
 
 - mini rc car with controller
-- crash detection sensor (prototype)
+- crash detection system (prototype)
 
 ### Languages:
 
