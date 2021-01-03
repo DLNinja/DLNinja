@@ -4,6 +4,7 @@
 
 
 ### 2021 Goals:
+-  Learn ML
 -  Minimum 1 commit/day
 -  Build a mini self-driving car
 -  Buy a 3D Printer
