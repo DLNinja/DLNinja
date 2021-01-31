@@ -60,6 +60,3 @@
 
 </details>
 
-
-<br>
-(this will not be here tomorrow)
