@@ -14,6 +14,7 @@
 
 ### Some completed projects:
 
+- Neural Network from Scratch
 - mini rc car with controller
 - crash detection system (prototype)
 
