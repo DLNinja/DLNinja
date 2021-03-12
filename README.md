@@ -5,7 +5,7 @@
 
 ### 2021 Goals:
 -  Learn ML/DL/AI
--  Minimum 1 commit/day
+-  Minimum 1 commit/day (it seems that when you delete a project, all commits from that go away)
 -  Build a mini self-driving car
 -  Learn CAD
 -  Build at least 1 project/month
