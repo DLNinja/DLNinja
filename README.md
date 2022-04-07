@@ -1,5 +1,7 @@
 ### Hi there, I'm Tudor
 
+I like math and computer-science and I'm also interested in artificial intelligence, robotics and 3d printing.
+
 ---
 
 ### Some completed projects:
