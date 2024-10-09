@@ -1,6 +1,6 @@
 ### Hi there, I'm Tudor
 
-I like math and computer-science and I'm also interested in artificial intelligence, robotics and 3d printing.
+I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anything related to computer science, from AI to hardware-based projects.
 
 ---
 
@@ -11,6 +11,7 @@ I like math and computer-science and I'm also interested in artificial intellige
 - Arduino Sumo Robot
 - Mini RC car with controller
 - Crash Detection System (prototype)
+- Automated Mini Revolving Door
 
 ---
 
