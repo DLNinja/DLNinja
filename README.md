@@ -17,7 +17,7 @@ I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anythi
 
 ### Languages I worked with:
 
-- C/C++
+- C/C++ (learned at school/uni, used at olympiads, Arduino)
 - Python (Tensorflow, PyTorch)
 - Java (Swing)
 - C# (Unity)
