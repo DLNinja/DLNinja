@@ -21,6 +21,7 @@ I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anythi
 - Python (Tensorflow, PyTorch)
 - Java (Swing)
 - C# (Unity)
+- SQL
 - VHDL (learned at uni)
 
 <!--
