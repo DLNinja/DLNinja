@@ -12,13 +12,16 @@ I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anythi
 - Mini RC car with controller
 - Crash Detection System (prototype)
 - Automated Mini Revolving Door
+- Arduino-controlled Pen Plotter
+- Motorised Iron-Man Helmet
+- Running Plan Generator Website
 
 ---
 
 ### Languages I worked with:
 
 - C/C++ (learned at school/uni, used at olympiads, Arduino)
-- Python (Tensorflow, PyTorch)
+- Python (Tensorflow, PyTorch, Django)
 - Java (Swing)
 - C# (Unity)
 - SQL
