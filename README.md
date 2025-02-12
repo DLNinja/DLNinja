@@ -1,6 +1,6 @@
 ### Hi there, I'm Tudor
 
-I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anything related to computer science, from AI to hardware-based projects.
+I'm a 3rd year Computer Science student at the Technical University of Cluj-Napoca. I love anything related to computer science, from AI to hardware-based projects.
 
 ---
 
@@ -24,7 +24,7 @@ I'm a 3rd year student at the Technical University of Cluj-Napoca. I love anythi
 - Python (Tensorflow, PyTorch, Django)
 - Java (Swing)
 - C# (Unity)
-- SQL
+- PostgreSQL
 - VHDL (learned at uni)
 
 <!--
