@@ -94,4 +94,15 @@ Development
 </details>
 -->
 
+## Contact me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tudor-gadalean-b6949a192/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tudi.gadalean@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 <p align="left"> <a href="https://github.com/DLNinja"> <img src="https://img.shields.io/github/followers/DLNinja?label=Followers&style=flat" /> </a> <a href="https://github.com/DLNinja"> <img src="https://komarev.com/ghpvc/?username=DLNinja&style=flat&label=Profile+Views" /> </a> </p>
