@@ -98,10 +98,10 @@ Development
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tudor-gadalean-b6949a192/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:tudi.gadalean@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
