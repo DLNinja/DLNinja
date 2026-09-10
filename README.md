@@ -1,31 +1,85 @@
 ### Hi there, I'm Tudor
 
-I'm a 3rd year Computer Science student at the Technical University of Cluj-Napoca. I love anything related to computer science, from AI to hardware-based projects.
+I'm an MSc Data Science student at the Technical University of Cluj-Napoca, interested in topcis like AI, signal processing, embedded systems and robotics.
 
 ---
 
-### Some completed projects:
+### Projects
 
-- Neural Network from Scratch
-- Object-following robot
-- Arduino Sumo Robot
-- Mini RC car with controller
-- Crash Detection System (prototype)
-- Automated Mini Revolving Door
-- Arduino-controlled Pen Plotter
-- Motorised Iron-Man Helmet
-- Running Plan Generator Website
+<table> <tr> <td width="50%">
+
+EEG2Music
+
+Real-time EEG processing and emotion recognition combined with procedural music generation.
+
+Python · PyTorch · EEG · Signal Processing
+
+</td> <td width="50%">
+
+Object Following Robot
+
+Computer-vision-based robot capable of detecting and following a target.
+
+Python · Computer Vision · Embedded
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+FPGA Projects
+
+Digital systems developed using FPGA hardware, including work with Xilinx/Zynq platforms.
+
+VHDL · FPGA · Vivado · Zynq
+
+</td> <td width="50%">
+
+Arduino Sumo Robot
+
+Autonomous robot designed for sumo-style competitions.
+
+C++ · Arduino · Sensors · Robotics
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+Arduino Pen Plotter
+
+A small CNC-style drawing machine controlled using Arduino.
+
+C++ · Arduino · Motors
+
+</td> <td width="50%">
+
+Motorised Iron Man Helmet
+
+Arduino-controlled mechanical helmet with motorised components.
+
+C++ · Arduino · Electronics
+
+</td> </tr> </table>
 
 ---
 
-### Languages I worked with:
+### Tech Stack
+Languages
 
-- C/C++ (learned at school/uni, used at olympiads, Arduino)
-- Python (Tensorflow, PyTorch, Django)
-- Java (Swing)
-- C# (Unity)
-- PostgreSQL
-- VHDL (learned at uni)
+<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,bash" /> </p>
+
+AI / Data
+
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> </p>
+
+Hardware & Embedded
+
+<p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> </p>
+
+VHDL · FPGA · Zynq · Vivado · ESP32
+
+Development
+
+<p> <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postgres,cmake" /> </p>
 
 <!--
 <br />
@@ -39,3 +93,5 @@ I'm a 3rd year Computer Science student at the Technical University of Cluj-Napo
 
 </details>
 -->
+
+<p align="left"> <a href="https://github.com/DLNinja"> <img src="https://img.shields.io/github/followers/DLNinja?label=Followers&style=flat" /> </a> <a href="https://github.com/DLNinja"> <img src="https://komarev.com/ghpvc/?username=DLNinja&style=flat&label=Profile+Views" /> </a> </p>
